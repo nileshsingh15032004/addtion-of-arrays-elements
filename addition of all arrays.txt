@@ -6,9 +6,9 @@ int main()
 {
     int i,j,k;
     int l=0;
-    cout<<"Enter number of array ";
+    cout<<"Enter Size of array ";
     cin>>i;
-    cout<<"enter arrays ";
+    cout<<"Enter arrays ";
     int n[i];
     for(int j=0;j<i;j++)
     cin>>n[j];
